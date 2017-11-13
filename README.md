@@ -6,3 +6,4 @@ This specific fork of the 'spin-kub-demo' repository is used in the [Azure Quick
 test
 test2
 test3
+test4
